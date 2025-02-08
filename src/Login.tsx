@@ -97,7 +97,7 @@ const Login = () => {
 
                     <p className='text-center text-gray-400 text-sm mt-6'>
                         Don't have an account? 
-                        <a href='/authentification/#/signup' className='text-white font-semibold underline ml-1'>Sign Up</a>
+                        <a href='/my-authentification/#/signup' className='text-white font-semibold underline ml-1'>Sign Up</a>
                     </p>
                 </div>
             </div>
