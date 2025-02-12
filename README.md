@@ -22,4 +22,4 @@ A fully functional **login** and **signup** page built with **Firebase**, **Reac
 ---
 
 ### 🌐 **Live Demo**  
-[**Check out the project here!**](https://anileve23.github.io/authentication-project/)
+[**Check out the project here!**](https://anileve23.github.io/my-authentification/#/login)
